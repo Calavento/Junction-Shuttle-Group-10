@@ -1,6 +1,6 @@
 # Junction Shuttle Booking System
 
-**Group [10]**| See [GROUP_MEMBERS.md](GROUP_MEMBERS.md)
+**Group 10**| See [GROUP_MEMBERS.md](GROUP_MEMBERS.md)
 
 A Visual Basic (.NET Windows Forms) app for booking seats on the Madina Zongo Junction - Dodowa shuttle route.
 
